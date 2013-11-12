@@ -15,7 +15,7 @@
     "esprima": "1.0.3",
     "estraverse": "1.1.2-1",
     "nomnom": "1.5.2",
-    "jade": "0.30.0"
+    "jade": "0.35.0"
   },
   "devDependencies": {
     "test": "*"
